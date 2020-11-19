@@ -242,7 +242,7 @@ footer{
     padding-left: 15px; 
     padding-right: 15px;
     box-sizing: border-box;
-    background-color: rgb(255, 255, 255,0.5);
+    background-color: rgb(255, 255, 255,0.2);
 }
 /* extra small devices */
 @media only screen and (max-width: 575.98px) {
