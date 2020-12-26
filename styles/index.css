@@ -105,6 +105,7 @@ section{
 @media only screen and (max-width: 575.98px) {
     .paragraph{
         font-size: 0.85rem;
+        width: 80%;
     }
 }
 
@@ -112,13 +113,15 @@ section{
 @media only screen and (min-width: 576px) and (max-width: 767.98px) {
     .paragraph{
         font-size: 0.85rem;
+        width: 80%;
     }
 }
 
 /* // Medium devices (tablets, 768px and up) */
 @media only screen and (min-width: 768px) and (max-width: 991.98px) {
     .paragraph{
-        font-size: 0.85rem;
+        font-size: 0.875rem;
+        width: 60%;
     }
 }
 
@@ -126,6 +129,8 @@ section{
 @media only screen and (min-width: 992px) and (max-width: 1199.98px) {
     .paragraph{
         font-size: 0.875rem;
+        width: 60%;
+
     }
 }
 
@@ -133,6 +138,8 @@ section{
 @media only screen and (min-width: 1200px) {
     .paragraph{
         font-size: 0.875rem;
+        width: 60%;
+
     }
 }
 .button-link{
