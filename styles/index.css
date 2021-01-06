@@ -138,8 +138,7 @@ section{
 @media only screen and (min-width: 1200px) {
     .paragraph{
         font-size: 0.875rem;
-        width: 60%;
-
+        width: 60%
     }
 }
 .button-link{
