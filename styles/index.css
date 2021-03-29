@@ -155,14 +155,14 @@ section{
     height: 40px;
     width: 100%;
 }
-.button:hover{
+/* .button:hover{
     background-color: #bcebeb;
     transition: 1.5s;
 }
 .button:focus{
     background-color: #bcebeb;
     transition: 1.5s;
-}
+} */
 .unique-first-button{
     background-color: #bcebeb;
     height: 42px;
@@ -248,7 +248,7 @@ footer{
     padding-left: 15px; 
     padding-right: 15px;
     box-sizing: border-box;
-    background-color: rgb(255, 255, 255,0.2);
+    background-color: rgb(255, 255, 255);
 }
 /* extra small devices */
 @media only screen and (max-width: 575.98px) {
@@ -285,12 +285,12 @@ footer{
     }
 }
 .footer-box:hover{
-    transform: scale(0.8);
-    transition: 1.5s;
+    transform: scale(0.95);
+    transition: 0.1s;
 }
 .footer-box:focus{
-    transform: scale(0.8);
-    transition: 1.5s;
+    transform: scale(0.95);
+    transition: 0.1s;
 }
 .footer-box-heading{
     font-size: 1.125rem;
